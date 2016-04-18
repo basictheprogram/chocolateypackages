@@ -20,6 +20,7 @@ CrashPlan auto-updates to the latest version. You do not need to download it aga
 	<dependencies>
 	</dependencies>
     <releaseNotes>Updated to version 4.6.0.</releaseNotes>
+    <packageSourceUrl>https://github.com/mkubenka/chocolateypackages/tree/master/CrashPlanPRO</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
