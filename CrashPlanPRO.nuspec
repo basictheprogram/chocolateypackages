@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CrashPlanPRO</id>
+    <title>CrashPlanPRO</title>
+    <version>4.6.0</version>
+    <authors>Code 42 Software</authors>
+    <owners>Michal Kubenka</owners>
+    <summary>CrashPlan PRO - Easy, secure online backup to protect all your business data.</summary>
+    <description>
+CrashPlan PRO takes your business backup to new heights by continuously sending your encrypted data to our secure online cloud. In less than 3 minutes you can be backing up your critical business data , and the "set it and forget it" nature will make business backup one less thing to worry about.
+
+CrashPlan auto-updates to the latest version. You do not need to download it again once it's installed. If your download hasn't started or you need to download CrashPlan for another operating system, please use the links to the left.</description>
+    <projectUrl>http://www.code42.com/business/</projectUrl>
+    <tags>Backup CrashPlan</tags>
+    <copyright>Code 42 Software.</copyright>
+    <licenseUrl>http://www.crashplan.com/bussines/compare.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/Kristinn-Stefansson/krschocolateypackages/c0733cd71a677a27f0e3c45000645867c74d415f/CrashPlan/crashplan.png</iconUrl>
+	<dependencies>
+	</dependencies>
+    <releaseNotes>Updated to version 4.6.0.</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
